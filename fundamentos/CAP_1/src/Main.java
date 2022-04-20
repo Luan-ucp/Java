@@ -7,9 +7,10 @@ public class Main {
         int[] num;
         num = new int[10];
 
-        Scanner in = new Scanner(System.in);
+        /*Scanner in = new Scanner(System.in);
         ProdutoSejaPar objPar = new ProdutoSejaPar(num);
-        objPar.CalculaProduto(num);
+        objPar.CalculaProduto(num);*/
+
 
     }
 }
